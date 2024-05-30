@@ -1,0 +1,12 @@
+{
+  "name": "array--assignmnet-2",
+  "version": "1.0.0",
+  "description": "submitted to hamza alvi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
